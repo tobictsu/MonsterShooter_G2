@@ -1,0 +1,36 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\4-23-16\New Unity Project\MonsterShoot_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.686079 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1cd4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.328213 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.249393 ms (FindLiveObjects: 0.027416 ms CreateObjectMapping: 0.011561 ms MarkObjects: 0.175731 ms  DeleteObjects: 0.030719 ms)
+
+dsdaf
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
